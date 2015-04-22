@@ -1,9 +1,11 @@
-package com.tianye.personrss;
+package com.tianye.personrss.ui;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import com.tianye.personrss.R;
 
 
 public class MainActivity extends ActionBarActivity {
